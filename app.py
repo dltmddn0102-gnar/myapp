@@ -22,7 +22,7 @@ DEFAULT_GREETING = '안녕하세요'
 APP_GREETING = os.getenv('APP_GREETING', DEFAULT_GREETING)
 
 st.set_page_config(
-    page_title = 'Render배포 연습 앱',\
+    page_title = 'Render배포 연습 앱 V2',\
     page_icon = '🚀',
     layout = 'centered',
 )
